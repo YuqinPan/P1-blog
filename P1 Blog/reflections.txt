@@ -1,0 +1,11 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+
+Through this part’s learning, I have a brief understanding of what HTML is and what’s the relationship between HTML and browsers. HTML is a markup language which defines the whole structure of the webpage and it’s nothing but boxes. In addition, I learned how to translate a particular mock up to HTML document. Unlike other programming languages, it shows results immediately, which interested me a lot. During the process of learning, I found it was easy to position the tags like <div>, <h1> and so on. However, it has been difficult for me to understand and use the relative path, which I fully understand now. In term of challenges of this project, since I learned some HTML before so it is not difficult for me. 
